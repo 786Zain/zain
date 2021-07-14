@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "964262034511",
+    "project_id": "farm-system-4d217",
+    "storage_bucket": "farm-system-4d217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964262034511:android:2652f10cb715803f037e3a",
+        "android_client_info": {
+          "package_name": "com.zibtek.farmsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964262034511-kmbinml1cfu16t1b1m9i8egbivufcooe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl7nGHQIzdIniRQs_wLgFxAlljCamQJ1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964262034511-kmbinml1cfu16t1b1m9i8egbivufcooe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

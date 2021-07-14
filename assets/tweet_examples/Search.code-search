@@ -1,0 +1,82 @@
+# Query: API demos
+# Flags: WordMatch RegExp IgnoreExcludeSettings
+# Including: ./farmsystem-mobile/assets
+# ContextLines: 1
+
+16 results - 12 files
+
+assets/tweet_examples/tweet_4_photos.json:
+  244      "id_str": "944480690",
+  245:     "name": "Farm System",
+  246      "screen_name": "FloodSocial",
+
+assets/tweet_examples/tweet_favorited_gh52.json:
+  107      "id_str": "944480690",
+  108:     "name": "Farm System",
+  109      "screen_name": "FloodSocial",
+
+assets/tweet_examples/tweet_gif.json:
+  116      "id_str": "944480690",
+  117:     "name": "Farm System",
+  118      "screen_name": "FloodSocial",
+
+assets/tweet_examples/tweet_quote_1_photo.json:
+   58      "id_str": "944480690",
+   59:     "name": "Farm System",
+   60      "screen_name": "FloodSocial",
+
+  230        "id_str": "944480690",
+  231:       "name": "Farm System",
+  232        "screen_name": "FloodSocial",
+
+assets/tweet_examples/tweet_quote_2_photos.json:
+  58      "id_str": "944480690",
+  59:     "name": "Farm System",
+  60      "screen_name": "FloodSocial",
+
+assets/tweet_examples/tweet_quote_3_photos.json:
+  58      "id_str": "944480690",
+  59:     "name": "Farm System",
+  60      "screen_name": "FloodSocial",
+
+assets/tweet_examples/tweet_quote_4_photos.json:
+   58      "id_str": "944480690",
+   59:     "name": "Farm System",
+   60      "screen_name": "FloodSocial",
+
+  367        "id_str": "944480690",
+  368:       "name": "Farm System",
+  369        "screen_name": "FloodSocial",
+
+assets/tweet_examples/tweet_quote_bug_gh14.json:
+  58      "id_str": "944480690",
+  59:     "name": "Farm System",
+  60      "screen_name": "FloodSocial",
+
+assets/tweet_examples/tweet_quote_bug_gh24.json:
+  58      "id_str": "944480690",
+  59:     "name": "Farm System",
+  60      "screen_name": "FloodSocial",
+
+assets/tweet_examples/tweet_quote_favorited_gh52.json:
+   58      "id_str": "944480690",
+   59:     "name": "Farm System",
+   60      "screen_name": "FloodSocial",
+
+  230        "id_str": "944480690",
+  231:       "name": "Farm System",
+  232        "screen_name": "FloodSocial",
+
+assets/tweet_examples/tweet_quote_gif.json:
+   58      "id_str": "944480690",
+   59:     "name": "Farm System",
+   60      "screen_name": "FloodSocial",
+
+  239        "id_str": "944480690",
+  240:       "name": "Farm System",
+  241        "screen_name": "FloodSocial",
+
+assets/tweet_examples/tweet_quote_video.json:
+  58      "id_str": "944480690",
+  59:     "name": "Farm System",
+  60      "screen_name": "FloodSocial",
